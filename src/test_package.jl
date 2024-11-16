@@ -4,4 +4,6 @@ module test_package
 
 greet() = print("Hello World!")
 
+say_hi() = print("hi")
+
 end
